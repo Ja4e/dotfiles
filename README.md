@@ -1,2 +1,3 @@
-# dotfile
+# dotfiles
 hypr
+waybar
